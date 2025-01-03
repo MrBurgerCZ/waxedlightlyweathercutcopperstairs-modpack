@@ -10,7 +10,7 @@
                 "modrinth": "https://modrinth.com/modpack/wlwccs-server-modpack",
             }
         }
-    }
+    },
     {
         "id": "1.0.2",
         "releasedAt": 1735861407,
@@ -19,6 +19,10 @@
                 "modrinth": "https://modrinth.com/modpack/wlwccs-server-modpack",
             }
         }
+    },
+    {
+      "id": "1.1.0",
+      "releasedAt": 987654321098765
     }
   ]
 }
