@@ -11,5 +11,14 @@
             }
         }
     }
+    {
+        "id": "1.0.2",
+        "releasedAt": 1735861407,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/wlwccs-server-modpack",
+            }
+        }
+    }
   ]
 }
